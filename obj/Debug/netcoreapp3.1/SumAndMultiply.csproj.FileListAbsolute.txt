@@ -1,0 +1,13 @@
+C:\Users\Tim\repos\SumAndMultiply\bin\Debug\netcoreapp3.1\SumAndMultiply.exe
+C:\Users\Tim\repos\SumAndMultiply\bin\Debug\netcoreapp3.1\SumAndMultiply.deps.json
+C:\Users\Tim\repos\SumAndMultiply\bin\Debug\netcoreapp3.1\SumAndMultiply.runtimeconfig.json
+C:\Users\Tim\repos\SumAndMultiply\bin\Debug\netcoreapp3.1\SumAndMultiply.runtimeconfig.dev.json
+C:\Users\Tim\repos\SumAndMultiply\bin\Debug\netcoreapp3.1\SumAndMultiply.dll
+C:\Users\Tim\repos\SumAndMultiply\bin\Debug\netcoreapp3.1\SumAndMultiply.pdb
+C:\Users\Tim\repos\SumAndMultiply\obj\Debug\netcoreapp3.1\SumAndMultiply.csprojAssemblyReference.cache
+C:\Users\Tim\repos\SumAndMultiply\obj\Debug\netcoreapp3.1\SumAndMultiply.AssemblyInfoInputs.cache
+C:\Users\Tim\repos\SumAndMultiply\obj\Debug\netcoreapp3.1\SumAndMultiply.AssemblyInfo.cs
+C:\Users\Tim\repos\SumAndMultiply\obj\Debug\netcoreapp3.1\SumAndMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Tim\repos\SumAndMultiply\obj\Debug\netcoreapp3.1\SumAndMultiply.dll
+C:\Users\Tim\repos\SumAndMultiply\obj\Debug\netcoreapp3.1\SumAndMultiply.pdb
+C:\Users\Tim\repos\SumAndMultiply\obj\Debug\netcoreapp3.1\SumAndMultiply.genruntimeconfig.cache
