@@ -26,6 +26,12 @@ namespace SumAndMultiply
         {
             Console.WriteLine("Hello World!\n");
 
+            if(args.Length == 0)
+            {
+                Console.WriteLine("There are no command-line parameters! Try it this way:\n\'dotnet run 1 2 3\'");
+                return;
+            }
+
             int[] input = new int[args.Length];
             int i = 0;
             Console.WriteLine("Here are the command-line parameters:");
